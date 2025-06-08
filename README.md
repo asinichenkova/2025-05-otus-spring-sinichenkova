@@ -1,1 +1,5 @@
-# 2025-05-otus-spring-sinichenkova
+# Синиченкова Анастасия Леонидовна
+Курс: Spring Framework (OTUS)
+Группа: Spring-2025-05
+
+# Список заданий
